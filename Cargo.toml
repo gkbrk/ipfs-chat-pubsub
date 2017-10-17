@@ -1,0 +1,9 @@
+[package]
+name = "ipfs-chat-pubsub"
+version = "0.1.0"
+authors = ["Gökberk Yaltıraklı <webdosusb@gmail.com>"]
+
+[dependencies]
+gtk = "0.2"
+ipfsapi = "0.1"
+error-chain = "0.11"
